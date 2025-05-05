@@ -7,7 +7,7 @@
 
 3) Brief explanation of the changes made in each commit ✅
    
-   Here’s a summary of the lines added and deleted in each of your commits:
+   Here’s a summary of the lines added and deleted in each of commits:
 
    ✅ First Commit: my first commit
 Added:
