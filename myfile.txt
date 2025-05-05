@@ -1,6 +1,5 @@
 Welcome to my text file.
 This is the start of my project documentation.
-Git helps developers collaborate and maintain code history.
 Version control allows easy tracking of changes in projects.
 Commits capture meaningful updates and progress in the code.
 Each commit message should explain the purpose of the change.
