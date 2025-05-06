@@ -1,4 +1,12 @@
 # Task1
+Git and GitHub Assignment 
+
+Easy Assignments 
+
+Assignment 1: Basic Git Workflow 
+
+Deliverables: 
+
 1) Repository with commit history ✅
 ![image](https://github.com/user-attachments/assets/35c1e950-c835-4a07-a27a-f3dc6c1832db)
 
@@ -59,3 +67,34 @@ Use git diff to examine differences between
 
 
 <img width="686" alt="Screenshot 2025-05-05 161018" src="https://github.com/user-attachments/assets/39acc231-60fc-4ede-bca8-86873a0bfd72" />
+
+
+
+
+Assignment 2: GitHub Basics & Collaboration 
+
+Deliverables: 
+
+1) Link to GitHub repository ✅
+   
+   
+2)Screenshot of the successful pull request and merge ✅
+
+
+<img width="959" alt="Screenshot 2025-05-06 173413" src="https://github.com/user-attachments/assets/eeeadf7d-da19-46e0-8659-f0a063c591bf" />
+
+
+
+
+
+<img width="959" alt="Screenshot 2025-05-06 173440" src="https://github.com/user-attachments/assets/c050ed49-cf20-41c3-a0fa-11c0f3e7a71c" />
+
+
+
+
+
+<img width="959" alt="Screenshot 2025-05-06 173512" src="https://github.com/user-attachments/assets/a21f261e-2912-4afd-951c-fdc2f6bae274" />
+
+
+
+
