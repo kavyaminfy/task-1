@@ -4,4 +4,3 @@ Version control allows easy tracking of changes in projects.
 Commits capture meaningful updates and progress in the code.
 Each commit message should explain the purpose of the change.
 This file will serve as a simple example for Git commands.
-Git helps developers collaborate and maintain code history.
